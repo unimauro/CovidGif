@@ -16,5 +16,4 @@ Data Covid to create Gif
 <br/><a href="https://www.cardenas.pe/">www.cardenas.pe</a>
 </p>
 
-
-Veremos
+Verificando
