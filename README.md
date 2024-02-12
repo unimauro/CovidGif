@@ -1,5 +1,7 @@
 # CovidGif
 
+Fue una epoca muy dura
+
 Please Validate
 
 Data Covid to create Gif
